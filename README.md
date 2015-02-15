@@ -1,3 +1,3 @@
-# Code & Supply Speakers
+# Builder Code Works On Rails
 
-This is a tool for managing C&S speakers
+Rails base filled with some preferences for development
