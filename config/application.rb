@@ -10,7 +10,7 @@ Bundler.require(*Rails.groups)
 #require 'resque-scheduler'
 #require 'resque/scheduler/server'
 
-module Speakers
+module OnRails
   class Application < Rails::Application
     config.generators do |g|
       g.test_framework :rspec,
