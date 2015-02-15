@@ -5,8 +5,8 @@ default: &default
 
 development:
   <<: *default
-  database: app_development
+  database: on_rails_development
 
 test:
   <<: *default
-  database: app_test
+  database: on_rails_test
