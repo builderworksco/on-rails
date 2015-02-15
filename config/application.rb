@@ -24,7 +24,7 @@ module Speakers
     end
 
     config.active_record.raise_in_transactional_callbacks = true
-    config.serve_static_assets = true
+    config.serve_static_files = true
     config.action_view.embed_authenticity_token_in_remote_forms = true
   end
 end
